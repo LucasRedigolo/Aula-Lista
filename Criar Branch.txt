@@ -1,0 +1,4 @@
+git checkout -b "nome a nova branch"
+git push -u origin NovaBranch
+
+depois pedir pull request, quando terminar o que eu fiz 
